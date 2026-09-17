@@ -1,2 +1,2 @@
 # Kathy-s-Project
-This is exercise 3
+I am doing a uoftcoders.github.io exercise
